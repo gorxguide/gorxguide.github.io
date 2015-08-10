@@ -1,7 +1,7 @@
 ---
-layout: page
-title: nudetest
-permalink: /tesing/
+layout:page
+title:testing
+permalink:/tesing/
 ---
 test
 ====
