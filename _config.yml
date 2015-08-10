@@ -83,4 +83,4 @@ exclude:
 
 #navbar
 pages_list:
-pictures: pages_list: {'About':'/about','Archive':'/archive','picturese':'/pictures'}
+pictures: pages_list: {'About':'/about','Archive':'/archive','Galery':'/galery'}
