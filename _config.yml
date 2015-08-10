@@ -57,7 +57,6 @@ markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 permalink: :title/
-permalink: :/pictures
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
