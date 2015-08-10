@@ -77,3 +77,8 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+
+#navbar
+pages_list:
+pictures: '/pictures'
