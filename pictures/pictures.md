@@ -1,8 +1,8 @@
 
 ---
-layout: page
-title: pictures
-permalink: /pictures/
+layout:page
+title:pictures
+permalink:/pictures/
 ---
 
 pictures link test
